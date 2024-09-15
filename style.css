@@ -1,0 +1,117 @@
+h1{
+    background-color:rgb(35, 103, 163) ;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0px;
+    padding-top: 1%;
+    height: 50px ;
+    color: azure;
+    font-style:oblique;
+    border-radius: 5px;
+    border-style: ridge;
+    border-width: 1px;
+ }
+ h2{ color:rgb(54, 49, 49); 
+     margin-top: 15px;
+     height: 35px;
+     width: 195px;
+     text-align: center;
+     padding-top: 10px; 
+     font-style:normal;
+     border-radius: 15px;
+     border-color: rgb(253, 250, 250);
+     background-color: rgb(232, 244, 244);
+     font-size: larger;
+     border-style: ridge;
+     border-width: 0.1px;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+ 
+     
+ }
+ 
+ ul{
+     margin-top: 0%;
+     height: 35px;
+     padding: 0%; 
+     background-color: aliceblue;
+     border-style: ridge;
+     border-width: 0.1px;
+     border-radius: 5%;
+     border-color: white;
+   
+    
+     
+ }
+ 
+ ul li {
+   list-style-type: none;
+   float: left;
+   margin-right: 13%;
+   padding-left: 50px;
+   
+  
+     
+ }
+ ul li a{
+     padding: 8px;
+     color: black;
+     text-decoration: none;
+     display: block;
+     font-weight: bold;
+     font-size: large;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ ul li a:hover {
+ background-color:rgb(234, 234, 246);
+ border-radius: 10px;
+ 
+ }
+ input:hover{
+     background-color: rgb(238, 243, 243);
+ 
+ }
+ 
+ div{
+     background-color: rgb(252, 252, 250);
+ }
+ 
+ div div{
+     background-color:white;
+     padding-left: 7px;
+     padding-top: 20px;
+     border-radius: 10px;
+     padding-bottom: 10px ;
+     border-color: rgb(203, 191, 191);
+     border-style: ridge;
+     border-width: 0.1px;
+     
+     
+     
+ }
+ 
+ 
+ div div table tr td{
+     padding-right: 70px;
+ }
+ 
+ 
+ 
+ footer{
+     background-color: rgb(228, 228, 193);
+     color: white;
+     height: 100px;
+     margin: 0px;
+     padding-left: 20px;
+     padding-top: 20px;
+     margin-top: 30px;
+     margin-bottom: 0%;
+     background-color:rgb(35, 103, 163);
+     border-style: ridge;
+     border-width: 1px;
+     
+    
+ }
+ 
+ 
+ 
